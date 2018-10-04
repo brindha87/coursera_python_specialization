@@ -3,8 +3,24 @@
 ## on COURSERA
 
 
-The below mentioned assignments are solved for the course "Programming for Everybody (Getting Started with Python)" offered by University of Michigan on Coursera. This course is the first course (in a total of 5 courses) in the Python For Everybody Specialization. These exercises covers Chapters 1 to 5 of the textbook "Python For Everybody - Exploring Data in Python 3" by Charles Severance.
+There are 5 courses in this specialization.
 
+Course 1: Programming for Everybody (Getting Started with Python)
+
+Course 2: Python Data Structures
+
+Course 3: Using Python to Access Web Data
+
+Course 4: Using Databases with Python
+
+Course 5: Capstone: Retrieving, Processing, and Visualizing Data with Python
+
+
+## Course 1: Programming for Everybody (Getting Started with Python)
+
+These exercises covers Chapters 1 to 5 of the textbook "Python For Everybody - Exploring Data in Python 3" by Charles Severance.
+
+The solutions are available in the folder "getting_started_with_python"
 
 
 #### Exercise 2.2
