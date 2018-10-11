@@ -109,3 +109,93 @@ Write a program to read through the mbox-short.txt and figure out the distributi
 From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
 
 Once you have accumulated the counts for each hour, print out the counts, sorted by hour.
+
+
+## Course 3: Using Python to Access Web Data
+
+These exercises covers Chapters 11 to 13 of the textbook "Python For Everybody - Exploring Data in Python 3" by Charles Severance. The solutions are in the folder "using_python_to_access_web_data". This covers scrape, parse, and read web data as well as access data using web APIs. Worked with HTML, XML, and JSON data formats in Python. 
+
+
+#### Exercise regex:
+
+Using re library (Regular Expressions), read a file, find all the numbers and compute the sum.
+
+
+#### Exercise socket:
+
+Using socket library, invoke a socket object, connect a socket, send a command and retrieve data from a webpage.
+
+
+#### Exercise read_htmlfile_webpage:
+
+Using urllib, read a webpage and print its contents
+
+
+#### Exercise count_words_webpage:
+
+Using urllib, read a webpage and calculate wordcount histogram.
+
+
+#### Exercise beautifulsoup1:
+
+Using urllib and BeautifulSoup, read the HTML from the webpage, parse the data, extract all the anchor tag urls.
+
+
+#### Exercise beautifulsoup2:
+
+Using urllib and BeautifulSoup, read the HTML from the webpage, and parse the data, extracting numbers and compute the sum of the numbers in the file.
+
+
+#### Exercise beautifulsoup3:
+
+Using urllib, write a program that follows the link in webpage. It takes 3 inputs: url, no of times to repeat the process, position. 
+
+Read the given url
+
+Fetch anchor tag in given position
+
+Extract url and name from that anchor tag
+
+Repeat the process
+
+At the end give the name of the last person.
+
+
+#### Exercise xmlparsing1:
+
+Fetch a node from XML string
+
+
+#### Exercise xmlparsing2:
+
+Fetch multiple nodes from XML string
+
+
+#### Exercise xmlparsing3:
+
+Write a Python program which prompts for a URL, read the XML data from that URL using urllib and then parse and extract the comment counts from the XML data, compute the sum of the numbers in the file.
+
+
+#### Exercise json1:
+
+Parse a simple json text
+
+
+#### Exercise json2:
+
+Parse a json text which is a list of dictionaries
+
+
+#### Exercise twitter_api
+
+Some reference code
+
+
+#### Exercise json_assignment1:
+
+Write a Python program that will prompt for a URL, read the JSON data from that URL using urllib and then parse and extract the comment counts from the JSON data, and compute the sum of the numbers in the file.
+
+
+#### Exercise json_assignment2:
+
+Write a Python program that will prompt for a location, contact a web service and retrieve JSON for the web service and parse that data, and retrieve the first place_id from the JSON.
