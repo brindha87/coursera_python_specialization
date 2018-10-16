@@ -199,3 +199,43 @@ Write a Python program that will prompt for a URL, read the JSON data from that 
 #### Exercise json_assignment2:
 
 Write a Python program that will prompt for a location, contact a web service and retrieve JSON for the web service and parse that data, and retrieve the first place_id from the JSON.
+
+
+## Course 4: Using Databases with Python
+
+These exercises covers Chapters 14 to 15 of the textbook "Python For Everybody - Exploring Data in Python 3" by Charles Severance. The solutions are in the folder "using_databases_with_python". 
+
+
+#### Exercise emaildb:
+
+This application will read the mailbox data and count the number of email messages and store it in the database table
+
+
+#### Exercise emaildb2:
+
+This application will read the mailbox data and count the number of email messages per organization (i.e. domain name of the email address)
+
+
+#### Exercise itunes_tracks:
+
+This application will read an iTunes export file in XML and produce a properly normalized database
+
+
+#### Exercise itunes_tracks2:
+
+This application will read an iTunes export file in XML and produce a properly normalized database
+
+
+#### Exercise many_to_many:
+
+This application will read roster data in JSON format, parse the file, and then produce an SQLite database that contains a User, Course, and Member table and populate the tables from the data file.
+
+
+#### Exercise geodata:
+
+Visualizing data on google maps. More details in README file in the code folder
+
+
+#### Exercise geodata2:
+
+Same as the above application with modified locations in where.data file
